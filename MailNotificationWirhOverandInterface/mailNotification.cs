@@ -13,7 +13,12 @@ namespace MailNotificationWirhOverandInterface
 
         public override void SetEmailConfiguration()
         {
-            base.SetEmailConfiguration();
+
+            //Host = "smtp.mail.yahoo.com";
+            //Port = 587;
+            //EnableSsl = true;
+            //FromPassword = "Bhavan21#";
+            //FromEmail = "vishalp951295@yahoo.com";
         }
 
 
